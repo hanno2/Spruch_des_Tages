@@ -1,0 +1,7 @@
+mkdir backend
+cd backend
+echo. > server.js
+echo // Express-Server wird hier implementiert > server.js
+cd ..
+echo. > index.html
+echo. > app.js
