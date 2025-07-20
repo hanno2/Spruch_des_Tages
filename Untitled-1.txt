@@ -1,0 +1,5 @@
+c:\Users\hanno\Documents\1_Techstarter_2025\workspace_datein\Repository_Techstarter\Spruch_des_Tages\
+├── index.html ✅
+├── style.css ✅
+├── app.js (benötigt für JavaScript-Funktionalität)
+└── hanno3-fotor-20250620134136.png (Ihr Bild)
